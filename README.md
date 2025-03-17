@@ -21,3 +21,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 git branch
 git branch myfeaturebranch
 git checkout myfeaturebranch
+git status
+kjameson-ltm:best-repo-ever kjameson git status
+On branch myfeaturebranch
+nothing to commit, working tree clean
